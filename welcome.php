@@ -1,5 +1,5 @@
-<?php
-// mensagem de boas vindas - insira até a linha 13 no arquivo functions.php do tema
+<?php //não incluir essa linha
+// mensagem de boas vindas - insira até a linha 14 no arquivo functions.php do tema
 // é possível usar outros além do display_name... user_firstname, user_lastname, user_login, user_nicename, user_email
 	function show_loggedin_function( $atts ) {
 	global $current_user, $user_login;
@@ -16,4 +16,4 @@
 //adicionar esse shortcode onde quer que a mensagem de boas vindas apareça
 [welcome_lab82]
 
-?>
+// não incluir essa linha ?> 
