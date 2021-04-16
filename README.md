@@ -1,4 +1,4 @@
-<img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" height="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/800px-WordPress_logo.svg.png" height="70" />
 
 # shortcodes para WordPress
 ## ideais para agregar valor nos projetos em WordPress
