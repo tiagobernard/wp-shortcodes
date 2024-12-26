@@ -7,5 +7,5 @@ Parte usado no arquivo function.php do tema filho (*child theme*) ativo ou em um
 E outra parte usado onde o shortcode deve funcionar
 
 ## Shortcodes para o plugin Pods  
-Criei um repositório para os shortcodes do plugin Pods - Tipos de conteúdo e campos personalizados à parte.  
+Criei um repositório para os shortcodes do plugin Pods - Tipos de conteúdo e campos personalizados.  
 Para acessar o repositório [clique aqui](https://github.com/tiagobernard/shortcodes-pods-cpt)
